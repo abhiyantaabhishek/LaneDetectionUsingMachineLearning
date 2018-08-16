@@ -32,13 +32,11 @@ accident would decrease drastically.
 We cannot appoint an extra human beside the driver to take care of him and make
 him alert if makes a mistake. Even though we appoint a human assistance for the
 driver there is no guarantee the assistance will not commit accident. Road
-accidents are one of the biggest cause of deaths on Indian roads. As per https://github.com/abhiyantaabhishek/LaneDetectionMachineLearning/blob/master/media
-statistics, in India one person is killed in a [road
-accident](https://timesofindia.com/topic/Road-accident) every four minutes. The
+accidents are one of the biggest cause of deaths on Indian roads. As per media 
+statistics, in India one person is killed in a  every four minutes. The
 causes for India's exceptionally high number of on road casualties include - bad
 road, careless user behavior, and defective road design and engineering, poor
-enforcement of [traffic rules](https://timesofindia.com/topic/traffic-rules) and
-the lack of rapid [trauma care](https://timesofindia.com/topic/trauma-care).
+enforcement of traffic rules and the lack of rapid trauma care.
 
 According to one report:
 
@@ -119,14 +117,9 @@ between the two lanes. The output of the CNN will look like below
 
 **Metrics**
 
-In [statistics](https://en.wikipedia.org/wiki/Statistics), the mean squared
-error (MSE) of an [estimator](https://en.wikipedia.org/wiki/Estimator) measures
-the [average](https://en.wikipedia.org/wiki/Expected_value) of the squares of
-the [errors](https://en.wikipedia.org/wiki/Error_%28statistics%29)—that is, the
-average squared difference between the estimated values and what is estimated.
-MSE is a [risk function](https://en.wikipedia.org/wiki/Risk_function),
-corresponding to the [expected
-value](https://en.wikipedia.org/wiki/Expected_value) of the squared error loss.
+In statistics, the mean squared error (MSE) of an estimator measures
+the average of the squares of the errors—that is, the average squared difference between the estimated 
+values and what is estimated. MSE is a risk function,corresponding to the expected value of the squared error loss.
 
 The MSE is a measure of the quality of an estimator—it is always non-negative,
 and values closer to zero are better.
