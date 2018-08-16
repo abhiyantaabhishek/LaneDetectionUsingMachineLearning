@@ -7,6 +7,7 @@
 > - keras with TensorFlow backend
 
 Below are the important links:
+- To download weight trained by me click [here(new_weights_best.h5)](https://drive.google.com/open?id=1VB-2e5eewzECXE_J4J6KDMVJonpxnq3P)
 - The data set used in the project is available here [here](https://drive.google.com/file/d/1SKm0P_rJjPnsqaRA0TP70uqpCYl0guwH/view?usp=sharing)
 - Lebels used of the above data is available [here](https://drive.google.com/file/d/1MsRK7158DBbIAXe0-0zBxD47LT-bGH5D/view?usp=sharing)
 - [Link to the  Dice Coefficient](https://en.wikipedia.org/wiki/S%C3%B8rensen%E2%80%93Dice_coefficient)
